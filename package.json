@@ -1,0 +1,22 @@
+{
+  "name": "gist-to-png",
+  "version": "1.0.0",
+  "description": "https://www.linkedin.com/pulse/include-code-snippet-pulse-articles-florent-georges https://gist.github.com/fgeorges/fc31ca3c5da31ad11878",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcandillon/gist-to-png.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcandillon/gist-to-png/issues"
+  },
+  "homepage": "https://github.com/wcandillon/gist-to-png#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
